@@ -1,0 +1,24 @@
+.mainArea {
+  margin: 20px 0;
+  margin-left: 20px;
+  display: flex;
+  background-color: aliceblue;
+  box-shadow: 10px 10px 25px gray;
+  border-radius: 10px;
+}
+.imagePart img {
+  height: 300px;
+  width: 300px;
+  padding: 10px;
+}
+.imagePart {
+  margin-left: 50px;
+}
+.details {
+  margin-left: 60px;
+  color: blue;
+}
+button {
+  background-color: black;
+  color: white;
+}
